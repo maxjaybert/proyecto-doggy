@@ -1,0 +1,44 @@
+@import '../components/colors';
+
+.section-cards {
+  background-color: $color_fondo; /* color navbar */
+  padding: 1em;
+}
+
+.cards-conteiner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+}
+
+
+
+.uptoup{
+
+  position: fixed;
+  bottom: 40px; right: 40px;
+  color: $color_gris;
+  transition: 0.5s;
+  &:hover,
+  &:focus{
+    scale: 1.5;
+    background-color: $color_fondo;
+  }
+
+}
+
+.whtapp{
+
+  position: fixed;
+  bottom: 100px; right: 45px;
+  color: $color_wpp;
+  transition: 0.5s;
+  &:hover,
+  &:focus{
+    scale: 1.5;
+    background-color: $color_fondo;
+  }
+
+}
+

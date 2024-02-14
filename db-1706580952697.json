@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "nombre": "Airpods 3ra Gen",
+      "foto": "img/airpods-3.webp",
+      "detalles": "Incluye cargador cable USB C y una funda de regalo a eleccion",
+      "precio": "254",
+      "id": 1,
+      "envio": true
+    },
+    {
+      "nombre": "Airpods 3ra Gen",
+      "foto": "img/airpods-3.webp",
+      "detalles": "Incluye cargador cable USB C y una funda de regalo a eleccion",
+      "precio": "254",
+      "id": 1,
+      "envio": true
+    },
+    {
+      "nombre": "Airpods 3ra Gen",
+      "foto": "img/airpods-3.webp",
+      "detalles": "Incluye cargador cable USB C y una funda de regalo a eleccion",
+      "precio": "254",
+      "id": 1,
+      "envio": true
+    }
+  ]
+}

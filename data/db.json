@@ -1,0 +1,37 @@
+{
+  
+
+  "productos": [
+    {
+      "plan": "Plan Semanal",
+      "foto": "img/perro5.jpg",
+      "detalles": "Incluye...",
+      "precio": "254",
+      "id": 1,
+      "envio": true
+    
+    },
+    {
+      "plan": "Plan Quincenal",
+      "foto": "img/perro2.jpg",
+      "detalles": "Incluye ",
+      "precio": "254",
+      "id": 2,
+      "envio": true
+    
+    },
+    {
+      "plan": "Plan Mensual",
+      "foto": "img/perro4.jpg",
+      "detalles": "Incluye ",
+      "precio": "254",
+      "id": 3,
+      "envio": true
+    
+    }
+    
+
+  ]
+
+
+}
