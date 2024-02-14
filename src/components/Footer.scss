@@ -97,6 +97,13 @@
 
 &__logo-container{
     padding-top: 0;
+
+    img{
+        display: flex;
+        flex-direction: row;  
+        scale:0.8
+    }
+    
 }
 
 ul, h3{
